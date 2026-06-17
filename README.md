@@ -1,3 +1,5 @@
+# GO TO <https://github.com/wensimehrp/Paiagram> for the Paiagram-OuDia implementation!
+
 # Paiagram-OuDia
 
 OuDia and OuDiaSecond r/w implementation in Rust. Also supports WebAssembly.
